@@ -4,4 +4,4 @@
 ## How to use
 Compile shm-sender.c and shm-receiver.c separately. Run them in separate terminals.
 
-for shm-sender.c to work, shared memory of that key must not exist. To remove shared memory, run `ipcrm -a` in your terminal.
+For shm-sender.c to work, shared memory of that key must not exist. To remove shared memory, run `ipcrm -a` in your terminal.
